@@ -1,0 +1,3 @@
+﻿  String2.cpp
+C:\Users\БВ311\source\repos\String2\String2\String2.cpp(30,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  String2.vcxproj -> C:\Users\БВ311\source\repos\String2\x64\Debug\String2.exe
